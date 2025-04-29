@@ -1,0 +1,3 @@
+the duration of the experiment: 30.798261165618896  secs
+ average sampling step: 5.097690390886879 
+ quantization step: 0.012890625
